@@ -13,3 +13,7 @@ Youtube Link:
 **Short Demo of it working**
 
 ![Gif Demo](https://github.com/xavierjenkins99/p1XavierJenkins/blob/main/ApartmentMicrowaveDemo.gif)
+
+# Issues with Old Design
+
+
