@@ -40,8 +40,18 @@ Youtube Link:
 * Only displays the time on the LED screen, not giving those who are **viusally impaired** much assistance when it comes to seeing how much time is left.
 
 
-# Improve Design
+# Improved Design
+
 ![HCI_Microwave](https://user-images.githubusercontent.com/47511017/109441777-d0194000-79fb-11eb-980a-44b892941185.png)
+
+
+# What's in the new design?
+
+## The Numpad:
+1. Has been made simpler and cleaner for most user's to see and read
+2. Buttons and font is much bigger than before
+3. Organized so that the numbers take priority and are on top of the command buttons
+4. **Raised Bumps** have been added to the buttons that will give visually impaired users the same access to the microwave as others.
 
 
 
