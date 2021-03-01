@@ -40,5 +40,10 @@ Youtube Link:
 * Only displays the time on the LED screen, not giving those who are **viusally impaired** much assistance when it comes to seeing how much time is left.
 
 
+# Improve Design
+![HCI_Microwave](https://user-images.githubusercontent.com/47511017/109441777-d0194000-79fb-11eb-980a-44b892941185.png)
+
+
+
 
 
