@@ -49,7 +49,8 @@ Youtube Link:
 # What's in the new design?
 
 ## The Numpad:
- ![HCI_Presentation3](https://user-images.githubusercontent.com/47511017/109449825-0318ff00-7a0f-11eb-9427-bbcd990fd804.png)
+ ![HCI_Presentation3](https://user-images.githubusercontent.com/47511017/109451034-1f6a6b00-7a12-11eb-9f74-5afd5019a2cc.png)
+ 
 1. Has been made simpler and cleaner for most user's to see and read
 2. Buttons and font is much bigger than before
 3. Organized so that the numbers take priority and are on top of the command buttons
