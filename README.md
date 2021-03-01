@@ -16,4 +16,9 @@ Youtube Link:
 
 # Issues with Old Design
 
+* Not very helpful for the blind.
+* Gives too many options, instead of being right to the point.
+* Numbered buttons are on the bottom when they should be at the top, since
+  is what people want to click on first in a hurry.
+*
 
