@@ -55,6 +55,8 @@ Youtube Link:
 2. Buttons and font is much bigger than before
 3. Organized so that the numbers take priority and are on top of the command buttons
 4. **Raised Bumps** have been added to the buttons that will give visually impaired users the same access to the microwave as others.
+5. A planned but not implemented option of having a speaker on the side which (when toggled on or off) will say the countdown time every minute passed. This is to further assist those who are visually impaired.
+6. Give a small vibration/sound when a button is pressed so the user knows they have clicked a button on the interface.
 
 
 
