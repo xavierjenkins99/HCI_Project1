@@ -10,6 +10,13 @@ Youtube Link:
 2. Reheating drinks
 3. Defrosting
 4. Overall maintainin the health and wellness of people in day to day life
+### Typical Order of using a Microwave
+ 1. Open microwave
+ 2. Place food inside microwave
+ 3. Close door and go to the top of the panel and hit time cook
+      1. if using express, just hit a number 
+      2. microwave will start cooking from that time
+ 4. Select a certain time and click Start.
 
 # Prior Design
 
