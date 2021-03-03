@@ -23,7 +23,8 @@ Youtube Link: https://youtu.be/Q-A5YSdv7ww
 
 **Image of Apartment Microwave Interface**
 
-![Microwave](https://github.com/xavierjenkins99/p1XavierJenkins/blob/main/ApartmentMicrowave.jpg)
+![ApartmentMicrowave](https://user-images.githubusercontent.com/47511017/109829681-610e3800-7c03-11eb-96fc-bb52c15b73a1.jpg)
+
 
 **Short Demo of it working**
 
