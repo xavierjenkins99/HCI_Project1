@@ -28,7 +28,8 @@ Youtube Link: https://youtu.be/Q-A5YSdv7ww
 
 **Short Demo of it working**
 
-![ApartmentMicrowaveDemo](https://github.com/xavierjenkins99/p1XavierJenkins/blob/main/ApartmentMicrowaveDemo.gif)
+![ApartmentMicrowaveDemo](https://user-images.githubusercontent.com/47511017/109870741-18b93f00-7c30-11eb-862a-99e79bc176d1.gif)
+
 
 # Issues with Old Design
 
