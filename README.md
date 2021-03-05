@@ -7,10 +7,10 @@ Youtube Link: https://youtu.be/Q-A5YSdv7ww
 
 # Uses of a Microwave
 
-1. Cooking food
-2. Reheating drinks
-3. Defrosting
-4. Overall maintainin the health and wellness of people in day to day life
+* Cooking food
+* Reheating drinks
+* Defrosting
+* Overall maintainin the health and wellness of people in day to day life
 ### Typical Order of using a Microwave
  1. Open microwave
  2. Place food inside microwave
